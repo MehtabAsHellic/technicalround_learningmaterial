@@ -1,0 +1,14 @@
+'''INTERVIEW AND INDUSTRY RELATED QUESTIONS - OOPL'''
+
+# CONSTRUCTOR (IN INTERVIEW WILL be asked)
+# constructor job is to assign memory to the object
+# no contructor mean, their will be default constructor is present for assigning the memory
+# parameterized constructor
+# how many types of variable declare in class - local, instance, static variable
+# In INSTANCE variable, it creat each seprate variable.
+# where we can declare instance variable - inside constructor by using self variable
+# difference - STATIC AND INSTANCE (INTERVIEW QUESTIONS)
+# Static variable can be accesed using classname and objectname but cant be modify
+# DYNAMIC MEMORY CREATE IN C - melloc, alloc, etc 
+# garbage collector concepts (INTERVIEW QUESTIONS)
+# INTERNAL MEOMRY MANAGEMENT CONCEPT in python - (CONCEPT overview) {work of garbage collector and distructor}
